@@ -1,0 +1,30 @@
+h1 {
+  font-size: 60px;
+  margin: 40px 0px 10px;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Indie Flower", cursive;
+}
+h2 {
+  font-size: 30px;
+  margin: 0px 0px 20px;
+  text-align: center;
+  font-weight: normal;
+  font-family: cursive;
+  text-decoration-line: underline;
+}
+button {
+  margin: 5px 10px;
+}
+#keys {
+  margin: 50px auto;
+  width: 50%
+}
+#header, #word {
+  text-align: center;
+  font-size: 24px;
+}
+#header {
+  width: 50%;
+  margin: 30px auto;
+}
