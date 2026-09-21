@@ -1,0 +1,12 @@
+{
+  "0": {
+    "name": "building1",
+    "bar_val": 0,
+    "url": "https://raw.githubusercontent.com/Harshit-Panigrahi/Augmented-Reality/main/HW/AR-City-Design/assets/building1/scene.gltf"
+  },
+  "1": {
+    "name": "building2",
+    "bar_val": 1,
+    "url": ""
+  }
+}
